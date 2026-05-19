@@ -114,25 +114,29 @@ class BraxEnv(VectorizedTask):
 		return env
 
 
-	def run_episode(self,policy,policy_params,init_key=None,n_steps=None):
+	def run_episode(self,policy,policy_params,norms_params,init_key=None,n_steps=None):
 		import jax
 		import jax.numpy as jnp
 		from evojax import ObsNormalizer
 		normalizer= ObsNormalizer(obs_shape=self.obs_shape)
 		normalize= jax.jit(normalizer.normalize_obs)
-		normalize_params= normalizer.get_init_params()
+		#normalize_params= normalizer.get_init_params()
 		step= jax.jit(self._init_step())
 		get_action= jax.jit(policy.get_actions)		
 		state= jax.jit(self._init_reset())(init_key or jax.random.PRNGKey(seed=0))
 		policy_state= jax.jit(policy.reset)(state)
 		policy_params= jnp.array([policy_params])
-		states, actions, rewards = [state], [], []
+		normalize_params= norms_params
+		states, actions, rewards, steps = [state], [], [], 0
 		for _ in range(n_steps or self.max_steps):
 			state = state.replace(obs=normalize(jnp.array([state.obs]), normalize_params))
+			#state = state.replace(obs=jnp.array([state.obs]))
 			action, policy_state = get_action(state, policy_params, policy_state)
 			state, reward, done= step(state, action[0])
 			states+=[state]; actions+=[action]; rewards+=[reward]
-		return states,actions,rewards
+			steps+=1
+			if done: break
+		return states,actions,rewards,steps
 
 	def render_episode(self,states,file_name):
 		from brax.io import html

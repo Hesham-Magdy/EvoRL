@@ -19,17 +19,23 @@ class Visualizer():
 				([_dir+'/data/test/'+i for i in listdir(_dir+'/data/test')] \
 					if self.visualize_test and isdir(_dir+'/data/test') else []) \
 					):
-			self.visualize_env(
+			print('rendering: {}'.format(n_dir))
+			rewards,steps=self.visualize_env(
 		    	output_file= n_dir+'/episode',
 		    	policy_params= np_load(n_dir+'/best.npy') if isfile(n_dir+'/best.npy') else None,
-		        env_keys= np_load(n_dir+'/env_init_keys.npy') if isfile(n_dir+'/env_init_keys.npy') else None,
+		        norms_params= np_load(n_dir+'/obs_norm.npy') if isfile(n_dir+'/obs_norm.npy') else None,
+				env_keys= np_load(n_dir+'/env_init_keys.npy') if isfile(n_dir+'/env_init_keys.npy') else None,
 		        steps= n_steps,
 		        )
+			with open(n_dir+'/episode.txt','w') as f:
+				f.write('reward:{}\nsteps:{}'.format(rewards,steps))
 
-	def visualize_env(self,policy_params=None,env_keys=None,steps=None,output_file='.'):
+
+	def visualize_env(self,policy_params=None,norms_params=None,env_keys=None,steps=None,output_file='.'):
 		if not hasattr(self.env,'run_episode') \
 		or not hasattr(self.env,'render_episode') \
 		or policy_params is None:
 			return
-		episode,_,_=self.env.run_episode(self.policy,policy_params,env_keys,steps)
+		episode,actions,rewards,steps=self.env.run_episode(self.policy,policy_params,norms_params,env_keys,steps)
 		self.env.render_episode(episode,output_file)
+		return sum(rewards), steps

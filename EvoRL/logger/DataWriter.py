@@ -15,7 +15,7 @@ class DataWriter():
 	def _cond(self,i):
 		return self.save_flag and ((i>0 and i%self.interval==0) or (i in self.iters))
 
-	def write(self,iter_n,population,rewards,env_states):	
+	def write(self,iter_n,population,normalization,rewards,env_states):	
 		if not self._cond(iter_n): return
 		from numpy import save
 		from dataclasses import asdict
@@ -23,6 +23,7 @@ class DataWriter():
 		_dir= self.directory+'/'+str(iter_n)
 		makedirs(_dir, exist_ok=True)
 		save(_dir+'/best.npy',population[rewards.argmax()] if len(population.shape)==2 else population)
+		save(_dir+'/obs_norm.npy',normalization)
 		if self.save_rewards: save(_dir+'/rewards.npy',rewards)
 		if self.save_population: save(_dir+'/population.npy',population)
 		if self.save_env:

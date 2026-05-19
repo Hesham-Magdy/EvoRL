@@ -66,7 +66,7 @@ class Logger():
 		print(self._id+', '+self._params_summary)
 		return self
 
-	def log(self,iter_n,population,rewards,env_states,test=False):
+	def log(self,iter_n,population,normalization,rewards,env_states,test=False):
 		#from time import perf_counter as get_time
 		start_time = get_time()
 		if not test:
@@ -78,7 +78,7 @@ class Logger():
 		self.times.append(iter_n,get_time()-start_time,logging=True)
 		start_time = get_time()
 		writer= self.train_writer if not test else self.test_writer
-		writer.write(iter_n,population,rewards,env_states)
+		writer.write(iter_n,population,normalization,rewards,env_states)
 		self.times.append(iter_n,get_time()-start_time,writing=True)
 
 	def log_time(self,iter_n,_eval=0,ask=0,tell=0,test=False):
@@ -87,7 +87,7 @@ class Logger():
 		else:
 			self.times.append(iter_n,_eval,test=test)
 
-	def end(self,best_solution,best_score):
+	def end(self,best_solution,normalization,best_score):
 		from yaml import dump
 		from numpy import save
 		from os import makedirs
@@ -115,6 +115,7 @@ class Logger():
 				if not _str: continue
 				with open(self.directory+'/'+file_name,'w') as f: f.write(_str)
 			save(self.directory+'/best.npy', best_solution)
+			save(self.directory+'/obs_norm.npy', normalization)
 			save(self.directory+'/train.npy', self.trains.get_array())
 			save(self.directory+'/test.npy', self.tests.get_array())
 			self.chart_drawer(self.trains.get_array(), self.directory+'/train.png', title="{} {}".format(self._env_name, self._algorithm_name))

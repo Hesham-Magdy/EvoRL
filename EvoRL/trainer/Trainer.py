@@ -42,7 +42,7 @@ class Trainer(object):
             if (i>0 and i%self.test_interval==0) or i==iters-1:
                 score= self._test(i,best)
                 if score >= max_score: max_score= score
-        return best, max_score
+        return best, self.evaluator.obs_params, max_score
 
     def _train(self,i):
         self.tick()
@@ -56,6 +56,7 @@ class Trainer(object):
         self.logger.log(
             iter_n= i,
             population= population,
+            normalization= self.evaluator.obs_params,
             rewards= rewards,
             env_states= env_states,
             test= False,
@@ -76,6 +77,7 @@ class Trainer(object):
         self.logger.log(
             iter_n= i,
             population= test_params,
+            normalization= self.evaluator.obs_params,
             rewards= rewards,
             env_states= env_states,
             test= True,

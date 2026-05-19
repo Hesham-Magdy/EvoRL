@@ -17,8 +17,8 @@ def main(params):
             (network.num_params,params['seed'])
     logger(algorithm,network,train_env,test_env,sim_env)
     trainer = Trainer(algorithm,network,train_env,test_env,params['seed'],params['train'],logger)
-    solution, score= trainer(params['iterations'])
-    logger.end(solution, score)
+    solution, normalization, score= trainer(params['iterations'])
+    logger.end(solution, normalization, score)
 
 if __name__=="__main__":
     from defaults import fill
