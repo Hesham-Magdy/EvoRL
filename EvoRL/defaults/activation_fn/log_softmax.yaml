@@ -1,0 +1,6 @@
+-
+  network:
+    name: MLP
+    layers: 32~32
+    hidden_activation: log_softmax
+    output_activation: log_softmax

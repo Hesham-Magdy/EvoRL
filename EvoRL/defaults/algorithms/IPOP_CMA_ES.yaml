@@ -1,0 +1,5 @@
+-
+  algorithm:
+    name: IPOP_CMA_ES
+    population: 100
+    #params: null

@@ -1,0 +1,20 @@
+-
+  algorithm:
+    #Gradientless Descent (Golovin et al., 2019)
+    #Reference: https://arxiv.org/pdf/1911.06317.pdf
+    #https://github.com/RobertTLange/evosax/blob/main/evosax/strategies/gld.py
+    name: GLD
+    population: 100
+    radius_max: 0.2
+    radius_min: 0.001
+    radius_decay: 5
+    mean_decay: 0.0
+    w_decay: 0.0 #Reduce fitness based on L2 norm of parameters
+    fitness_trafo: centered_rank #[centered_rank, z_score, norm_range, raw]
+    #centered_rank -> Return ~ -0.5 to 0.5 centered ranks (best to worst - min!)
+    #z_score -> Make fitness 'Gaussian' by substracting mean and dividing by std
+    #norm_range -> Map scores into a min/max range (-1.0, 1.0)
+    init_min: 0.0
+    init_max: 0.0
+    clip_min: null
+    clip_max: null

@@ -1,0 +1,5 @@
+-
+  env:
+    name: CartPole
+    episode_length: 1000
+    hard: false

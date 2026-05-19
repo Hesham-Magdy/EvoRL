@@ -1,0 +1,6 @@
+-
+  network:
+    name: MLP
+    layers: 32~32
+    hidden_activation: soft_sign
+    output_activation: soft_sign

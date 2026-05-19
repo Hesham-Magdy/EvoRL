@@ -1,0 +1,20 @@
+-
+  algorithm:
+    #Discovered Evolution Strategy (Lange et al., 2023)
+    #https://github.com/RobertTLange/evosax/blob/main/evosax/strategies/des.py
+    name: DES
+    population: 100
+    lrate_mean: 1.0 #Learning rate for population mean
+    lrate_sigma: 0.1 #Learning rate for population std
+    temperature: 12.5 #Temperature for softmax weights
+    sigma_init: 0.1 #Standard deviation
+    mean_decay: 0.0
+    w_decay: 0.0 #Reduce fitness based on L2 norm of parameters
+    fitness_trafo: centered_rank #[centered_rank, z_score, norm_range, raw]
+    #centered_rank -> Return ~ -0.5 to 0.5 centered ranks (best to worst - min!)
+    #z_score -> Make fitness 'Gaussian' by substracting mean and dividing by std
+    #norm_range -> Map scores into a min/max range (-1.0, 1.0)
+    init_min: 0.0
+    init_max: 0.0
+    clip_min: null
+    clip_max: null

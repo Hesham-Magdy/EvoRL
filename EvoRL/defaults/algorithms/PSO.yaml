@@ -1,0 +1,19 @@
+-
+  algorithm:
+    #Particle Swarm Optimization (Kennedy & Eberhart, 1995)
+    #Reference: https://ieeexplore.ieee.org/document/488968
+    #https://github.com/RobertTLange/evosax/blob/main/evosax/strategies/pso.py
+    name: PSO
+    population: 100
+    inertia_coeff: 0.75  #w momentum of velocity
+    cognitive_coeff: 1.5  #c_1 cognitive "force" multiplier
+    social_coeff: 2.0  #c_2 social "force" multiplier
+    w_decay: 0.0 #Reduce fitness based on L2 norm of parameters
+    fitness_trafo: centered_rank #[centered_rank, z_score, norm_range, raw]
+    #centered_rank -> Return ~ -0.5 to 0.5 centered ranks (best to worst - min!)
+    #z_score -> Make fitness 'Gaussian' by substracting mean and dividing by std
+    #norm_range -> Map scores into a min/max range (-1.0, 1.0)
+    init_min: -0.1
+    init_max: 0.1
+    clip_min: null
+    clip_max: null

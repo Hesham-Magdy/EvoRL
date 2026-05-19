@@ -1,0 +1,5 @@
+-
+  algorithm:
+    name: LGA
+    population: 100
+    #params: null

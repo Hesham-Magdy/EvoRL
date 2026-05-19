@@ -1,0 +1,21 @@
+-
+  algorithm:
+    #Differential Evolution (Storn & Price, 1997)
+    #Reference: https://tinyurl.com/4pje5a74
+    #https://github.com/RobertTLange/evosax/blob/main/evosax/strategies/de.py
+    name: DE
+    population: 100 # population>6
+    mutate_best_vector: True  # False - 'random'
+    num_diff_vectors: 1  # [1, 2]
+    cross_over_rate: 0.9  # cross-over probability [0, 1]
+    diff_w: 0.8  # differential weight (F) [0, 2]
+    w_decay: 0.0 #Reduce fitness based on L2 norm of parameters
+    fitness_trafo: centered_rank #[centered_rank, z_score, norm_range, raw]
+    #centered_rank -> Return ~ -0.5 to 0.5 centered ranks (best to worst - min!)
+    #z_score -> Make fitness 'Gaussian' by substracting mean and dividing by std
+    #norm_range -> Map scores into a min/max range (-1.0, 1.0)
+    init_min: -0.1
+    init_max: 0.1
+    clip_min: null
+    clip_max: null
+

@@ -1,0 +1,13 @@
+-
+  iterations: 100
+  algorithm:
+    name: null
+  env: 
+    name: null
+  network:
+    name: null
+  train:
+    test_interval: 10
+    n_tests: 16
+    normalization: false
+  seed: 12

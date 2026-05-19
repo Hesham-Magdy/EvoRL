@@ -1,0 +1,20 @@
+-
+  algorithm:
+    #1/5 MR Genetic Algorithm (Rechenberg, 1987)
+    #Reference: https://link.springer.com/chapter/10.1007/978-3-642-81283-5_8
+    #https://github.com/RobertTLange/evosax/blob/main/evosax/strategies/mr15_ga.py
+    name: MR15_GA
+    population: 100
+    elite_ratio: 0.0
+    cross_over_rate: 0.0
+    sigma_ratio: 0.15
+    sigma_init: 0.1
+    w_decay: 0.0 #Reduce fitness based on L2 norm of parameters
+    fitness_trafo: centered_rank #[centered_rank, z_score, norm_range, raw]
+    #centered_rank -> Return ~ -0.5 to 0.5 centered ranks (best to worst - min!)
+    #z_score -> Make fitness 'Gaussian' by substracting mean and dividing by std
+    #norm_range -> Map scores into a min/max range (-1.0, 1.0)
+    init_min: 0.0
+    init_max: 0.0
+    clip_min: null
+    clip_max: null

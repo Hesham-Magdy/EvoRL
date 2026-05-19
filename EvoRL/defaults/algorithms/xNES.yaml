@@ -1,0 +1,5 @@
+-
+  algorithm:
+    name: xNES
+    population: 100
+    #params: null

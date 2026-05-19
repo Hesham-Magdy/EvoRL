@@ -1,0 +1,23 @@
+-
+  algorithm:
+    #Simulated Annealing (Rasdi Rere et al., 2015)
+    #Reference: https://www.sciencedirect.com/science/article/pii/S1877050915035759
+    #https://github.com/RobertTLange/evosax/blob/main/evosax/strategies/sim_anneal.py
+    name: SimAnneal
+    population: 100
+    temp_init: 1.0
+    temp_limit: 0.1
+    temp_decay: 0.999
+    boltzmann_const: 5.0
+    sigma_init: 0.03
+    sigma_decay: 1.0
+    sigma_limit: 0.01
+    w_decay: 0.0 #Reduce fitness based on L2 norm of parameters
+    fitness_trafo: centered_rank #[centered_rank, z_score, norm_range, raw]
+    #centered_rank -> Return ~ -0.5 to 0.5 centered ranks (best to worst - min!)
+    #z_score -> Make fitness 'Gaussian' by substracting mean and dividing by std
+    #norm_range -> Map scores into a min/max range (-1.0, 1.0)
+    init_min: 0.0
+    init_max: 0.0
+    clip_min: null
+    clip_max: null

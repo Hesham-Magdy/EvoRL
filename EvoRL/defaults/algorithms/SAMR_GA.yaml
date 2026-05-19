@@ -1,0 +1,19 @@
+-
+  algorithm:
+    #Self-Adaptation Mutation Rate (SAMR) GA
+    #https://github.com/RobertTLange/evosax/blob/main/evosax/strategies/samr_ga.py
+    name: SAMR_GA
+    population: 100
+    elite_ratio: 0.0
+    sigma_best_limit: 0.0001
+    sigma_init: 0.07
+    sigma_meta: 2.0
+    w_decay: 0.0 #Reduce fitness based on L2 norm of parameters
+    fitness_trafo: centered_rank #[centered_rank, z_score, norm_range, raw]
+    #centered_rank -> Return ~ -0.5 to 0.5 centered ranks (best to worst - min!)
+    #z_score -> Make fitness 'Gaussian' by substracting mean and dividing by std
+    #norm_range -> Map scores into a min/max range (-1.0, 1.0)
+    init_min: 0.0
+    init_max: 0.0
+    clip_min: null
+    clip_max: null

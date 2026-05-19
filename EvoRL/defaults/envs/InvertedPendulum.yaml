@@ -1,0 +1,8 @@
+-
+  env:
+    name: InvertedPendulum
+    physics_backend: spring #[spring, positional, generalized, mjx]
+    episode_length: 1000
+    action_repeat: 1
+    episodic: True
+    auto_reset: True

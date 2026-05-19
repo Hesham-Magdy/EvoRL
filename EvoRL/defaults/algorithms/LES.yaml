@@ -1,0 +1,5 @@
+-
+  algorithm:
+    name: LES
+    population: 100
+    #params: null
