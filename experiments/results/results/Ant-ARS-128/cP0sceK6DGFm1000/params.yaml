@@ -1,0 +1,50 @@
+#cP0sceK6DGFm1000
+- iterations: 1000
+  algorithm:
+    name: ARS
+    population: 128
+    elite_ratio: 1.0
+    sigma_init: 0.04
+    sigma_decay: 0.999
+    sigma_limit: 0.01
+    opt_name: adam
+    lrate_init: 0.01
+    lrate_decay: 0.999
+    lrate_limit: 0.001
+    mean_decay: 0.0
+    w_decay: 0.0
+    fitness_trafo: centered_rank
+    init_min: 0.0
+    init_max: 0.0
+    clip_min: null
+    clip_max: null
+  env:
+    name: Ant
+    physics_backend: spring
+    episode_length: 1000
+    action_repeat: 1
+    episodic: true
+    auto_reset: true
+  network:
+    name: MLP
+    layers: 64~64~64~64
+    hidden_activation: tanh
+    output_activation: tanh
+  train:
+    test_interval: 25
+    n_tests: 128
+    normalization: true
+  log:
+    log_interval: 1
+    log_save: true
+    save_test: true
+    save_train: false
+    save_train_interval: 50
+    save_population: false
+    save_rewards: false
+    save_env: false
+    visualize_final_env: true
+    visualize_test_envs: false
+    visualize_train_envs: false
+  seed: 12
+  out_dir: ./results

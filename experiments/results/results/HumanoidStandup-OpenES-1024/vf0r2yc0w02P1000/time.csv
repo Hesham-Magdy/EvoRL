@@ -1,0 +1,2088 @@
+Total time, 8310.82s, 100.00%
+	,Train time, 8045.82s, 96.81%
+	,	,Evaluation time, 8043.42s, 99.97%
+	,	,Ask time, 1.14s, 0.01%
+	,	,Tell time, 1.25s, 0.02%
+	,Test time, 263.65s, 3.17%
+	,Logging time, 1.32s, 0.02%
+	,Writing time, 0.03s, 0.00%
+Iter:0, train:35.76s, eval:98%, ask:1%, tell:1%
+Iter:1, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:2, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:3, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:4, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:5, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:6, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:7, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:8, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:9, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:10, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:11, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:12, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:13, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:14, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:15, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:16, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:17, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:18, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:19, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:20, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:21, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:22, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:23, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:24, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:25, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:26, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:27, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:28, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:29, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:30, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:31, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:32, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:33, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:34, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:35, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:36, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:37, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:38, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:39, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:40, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:41, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:42, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:43, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:44, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:45, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:46, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:47, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:48, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:49, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:50, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:51, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:52, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:53, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:54, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:55, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:56, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:57, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:58, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:59, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:60, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:61, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:62, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:63, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:64, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:65, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:66, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:67, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:68, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:69, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:70, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:71, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:72, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:73, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:74, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:75, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:76, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:77, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:78, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:79, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:80, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:81, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:82, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:83, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:84, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:85, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:86, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:87, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:88, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:89, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:90, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:91, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:92, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:93, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:94, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:95, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:96, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:97, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:98, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:99, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:100, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:101, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:102, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:103, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:104, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:105, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:106, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:107, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:108, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:109, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:110, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:111, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:112, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:113, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:114, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:115, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:116, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:117, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:118, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:119, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:120, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:121, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:122, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:123, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:124, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:125, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:126, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:127, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:128, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:129, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:130, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:131, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:132, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:133, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:134, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:135, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:136, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:137, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:138, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:139, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:140, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:141, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:142, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:143, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:144, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:145, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:146, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:147, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:148, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:149, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:150, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:151, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:152, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:153, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:154, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:155, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:156, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:157, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:158, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:159, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:160, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:161, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:162, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:163, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:164, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:165, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:166, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:167, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:168, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:169, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:170, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:171, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:172, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:173, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:174, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:175, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:176, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:177, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:178, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:179, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:180, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:181, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:182, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:183, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:184, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:185, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:186, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:187, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:188, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:189, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:190, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:191, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:192, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:193, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:194, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:195, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:196, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:197, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:198, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:199, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:200, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:201, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:202, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:203, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:204, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:205, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:206, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:207, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:208, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:209, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:210, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:211, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:212, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:213, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:214, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:215, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:216, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:217, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:218, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:219, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:220, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:221, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:222, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:223, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:224, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:225, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:226, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:227, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:228, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:229, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:230, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:231, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:232, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:233, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:234, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:235, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:236, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:237, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:238, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:239, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:240, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:241, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:242, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:243, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:244, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:245, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:246, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:247, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:248, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:249, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:250, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:251, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:252, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:253, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:254, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:255, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:256, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:257, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:258, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:259, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:260, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:261, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:262, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:263, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:264, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:265, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:266, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:267, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:268, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:269, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:270, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:271, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:272, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:273, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:274, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:275, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:276, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:277, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:278, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:279, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:280, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:281, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:282, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:283, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:284, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:285, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:286, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:287, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:288, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:289, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:290, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:291, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:292, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:293, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:294, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:295, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:296, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:297, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:298, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:299, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:300, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:301, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:302, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:303, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:304, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:305, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:306, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:307, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:308, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:309, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:310, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:311, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:312, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:313, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:314, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:315, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:316, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:317, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:318, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:319, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:320, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:321, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:322, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:323, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:324, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:325, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:326, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:327, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:328, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:329, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:330, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:331, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:332, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:333, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:334, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:335, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:336, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:337, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:338, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:339, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:340, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:341, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:342, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:343, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:344, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:345, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:346, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:347, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:348, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:349, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:350, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:351, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:352, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:353, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:354, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:355, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:356, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:357, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:358, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:359, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:360, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:361, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:362, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:363, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:364, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:365, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:366, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:367, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:368, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:369, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:370, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:371, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:372, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:373, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:374, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:375, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:376, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:377, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:378, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:379, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:380, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:381, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:382, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:383, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:384, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:385, train:8.03s, eval:100%, ask:0%, tell:0%
+Iter:386, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:387, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:388, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:389, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:390, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:391, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:392, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:393, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:394, train:8.03s, eval:100%, ask:0%, tell:0%
+Iter:395, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:396, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:397, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:398, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:399, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:400, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:401, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:402, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:403, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:404, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:405, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:406, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:407, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:408, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:409, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:410, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:411, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:412, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:413, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:414, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:415, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:416, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:417, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:418, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:419, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:420, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:421, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:422, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:423, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:424, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:425, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:426, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:427, train:8.03s, eval:100%, ask:0%, tell:0%
+Iter:428, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:429, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:430, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:431, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:432, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:433, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:434, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:435, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:436, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:437, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:438, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:439, train:8.03s, eval:100%, ask:0%, tell:0%
+Iter:440, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:441, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:442, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:443, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:444, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:445, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:446, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:447, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:448, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:449, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:450, train:8.03s, eval:100%, ask:0%, tell:0%
+Iter:451, train:8.03s, eval:100%, ask:0%, tell:0%
+Iter:452, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:453, train:8.03s, eval:100%, ask:0%, tell:0%
+Iter:454, train:8.03s, eval:100%, ask:0%, tell:0%
+Iter:455, train:8.03s, eval:100%, ask:0%, tell:0%
+Iter:456, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:457, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:458, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:459, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:460, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:461, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:462, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:463, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:464, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:465, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:466, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:467, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:468, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:469, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:470, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:471, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:472, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:473, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:474, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:475, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:476, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:477, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:478, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:479, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:480, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:481, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:482, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:483, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:484, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:485, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:486, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:487, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:488, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:489, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:490, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:491, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:492, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:493, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:494, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:495, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:496, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:497, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:498, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:499, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:500, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:501, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:502, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:503, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:504, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:505, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:506, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:507, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:508, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:509, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:510, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:511, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:512, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:513, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:514, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:515, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:516, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:517, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:518, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:519, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:520, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:521, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:522, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:523, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:524, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:525, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:526, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:527, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:528, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:529, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:530, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:531, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:532, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:533, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:534, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:535, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:536, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:537, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:538, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:539, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:540, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:541, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:542, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:543, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:544, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:545, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:546, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:547, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:548, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:549, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:550, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:551, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:552, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:553, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:554, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:555, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:556, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:557, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:558, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:559, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:560, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:561, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:562, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:563, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:564, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:565, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:566, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:567, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:568, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:569, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:570, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:571, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:572, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:573, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:574, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:575, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:576, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:577, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:578, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:579, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:580, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:581, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:582, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:583, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:584, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:585, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:586, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:587, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:588, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:589, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:590, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:591, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:592, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:593, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:594, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:595, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:596, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:597, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:598, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:599, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:600, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:601, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:602, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:603, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:604, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:605, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:606, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:607, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:608, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:609, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:610, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:611, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:612, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:613, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:614, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:615, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:616, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:617, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:618, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:619, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:620, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:621, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:622, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:623, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:624, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:625, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:626, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:627, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:628, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:629, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:630, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:631, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:632, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:633, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:634, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:635, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:636, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:637, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:638, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:639, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:640, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:641, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:642, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:643, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:644, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:645, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:646, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:647, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:648, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:649, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:650, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:651, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:652, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:653, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:654, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:655, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:656, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:657, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:658, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:659, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:660, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:661, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:662, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:663, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:664, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:665, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:666, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:667, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:668, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:669, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:670, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:671, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:672, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:673, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:674, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:675, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:676, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:677, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:678, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:679, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:680, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:681, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:682, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:683, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:684, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:685, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:686, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:687, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:688, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:689, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:690, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:691, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:692, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:693, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:694, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:695, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:696, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:697, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:698, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:699, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:700, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:701, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:702, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:703, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:704, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:705, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:706, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:707, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:708, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:709, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:710, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:711, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:712, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:713, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:714, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:715, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:716, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:717, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:718, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:719, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:720, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:721, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:722, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:723, train:8.03s, eval:100%, ask:0%, tell:0%
+Iter:724, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:725, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:726, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:727, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:728, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:729, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:730, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:731, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:732, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:733, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:734, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:735, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:736, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:737, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:738, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:739, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:740, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:741, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:742, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:743, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:744, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:745, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:746, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:747, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:748, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:749, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:750, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:751, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:752, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:753, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:754, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:755, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:756, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:757, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:758, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:759, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:760, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:761, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:762, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:763, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:764, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:765, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:766, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:767, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:768, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:769, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:770, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:771, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:772, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:773, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:774, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:775, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:776, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:777, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:778, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:779, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:780, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:781, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:782, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:783, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:784, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:785, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:786, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:787, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:788, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:789, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:790, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:791, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:792, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:793, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:794, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:795, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:796, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:797, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:798, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:799, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:800, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:801, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:802, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:803, train:8.03s, eval:100%, ask:0%, tell:0%
+Iter:804, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:805, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:806, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:807, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:808, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:809, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:810, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:811, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:812, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:813, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:814, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:815, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:816, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:817, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:818, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:819, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:820, train:8.03s, eval:100%, ask:0%, tell:0%
+Iter:821, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:822, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:823, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:824, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:825, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:826, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:827, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:828, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:829, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:830, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:831, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:832, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:833, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:834, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:835, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:836, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:837, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:838, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:839, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:840, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:841, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:842, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:843, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:844, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:845, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:846, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:847, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:848, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:849, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:850, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:851, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:852, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:853, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:854, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:855, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:856, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:857, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:858, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:859, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:860, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:861, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:862, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:863, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:864, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:865, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:866, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:867, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:868, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:869, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:870, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:871, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:872, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:873, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:874, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:875, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:876, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:877, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:878, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:879, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:880, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:881, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:882, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:883, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:884, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:885, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:886, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:887, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:888, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:889, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:890, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:891, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:892, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:893, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:894, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:895, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:896, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:897, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:898, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:899, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:900, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:901, train:8.03s, eval:100%, ask:0%, tell:0%
+Iter:902, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:903, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:904, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:905, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:906, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:907, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:908, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:909, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:910, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:911, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:912, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:913, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:914, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:915, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:916, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:917, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:918, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:919, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:920, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:921, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:922, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:923, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:924, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:925, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:926, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:927, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:928, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:929, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:930, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:931, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:932, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:933, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:934, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:935, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:936, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:937, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:938, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:939, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:940, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:941, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:942, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:943, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:944, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:945, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:946, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:947, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:948, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:949, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:950, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:951, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:952, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:953, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:954, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:955, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:956, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:957, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:958, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:959, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:960, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:961, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:962, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:963, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:964, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:965, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:966, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:967, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:968, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:969, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:970, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:971, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:972, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:973, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:974, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:975, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:976, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:977, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:978, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:979, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:980, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:981, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:982, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:983, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:984, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:985, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:986, train:8.01s, eval:100%, ask:0%, tell:0%
+Iter:987, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:988, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:989, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:990, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:991, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:992, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:993, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:994, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:995, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:996, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:997, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:998, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:999, train:8.02s, eval:100%, ask:0%, tell:0%
+Iter:25, test:31.19s
+Iter:50, test:5.95s
+Iter:75, test:5.96s
+Iter:100, test:5.99s
+Iter:125, test:5.95s
+Iter:150, test:5.96s
+Iter:175, test:5.95s
+Iter:200, test:5.96s
+Iter:225, test:5.95s
+Iter:250, test:5.95s
+Iter:275, test:5.97s
+Iter:300, test:5.96s
+Iter:325, test:5.95s
+Iter:350, test:5.97s
+Iter:375, test:5.95s
+Iter:400, test:5.95s
+Iter:425, test:5.96s
+Iter:450, test:5.97s
+Iter:475, test:5.95s
+Iter:500, test:5.96s
+Iter:525, test:6.03s
+Iter:550, test:5.95s
+Iter:575, test:5.96s
+Iter:600, test:5.97s
+Iter:625, test:5.95s
+Iter:650, test:5.96s
+Iter:675, test:5.96s
+Iter:700, test:5.95s
+Iter:725, test:5.98s
+Iter:750, test:5.95s
+Iter:775, test:5.95s
+Iter:800, test:5.97s
+Iter:825, test:5.95s
+Iter:850, test:5.95s
+Iter:875, test:5.96s
+Iter:900, test:5.95s
+Iter:925, test:5.97s
+Iter:950, test:5.97s
+Iter:975, test:5.95s
+Iter:999, test:5.95s
+Iter:0, logging:0.00s
+Iter:1, logging:0.00s
+Iter:2, logging:0.00s
+Iter:3, logging:0.00s
+Iter:4, logging:0.00s
+Iter:5, logging:0.00s
+Iter:6, logging:0.00s
+Iter:7, logging:0.00s
+Iter:8, logging:0.00s
+Iter:9, logging:0.00s
+Iter:10, logging:0.00s
+Iter:11, logging:0.00s
+Iter:12, logging:0.00s
+Iter:13, logging:0.00s
+Iter:14, logging:0.00s
+Iter:15, logging:0.00s
+Iter:16, logging:0.00s
+Iter:17, logging:0.00s
+Iter:18, logging:0.00s
+Iter:19, logging:0.00s
+Iter:20, logging:0.00s
+Iter:21, logging:0.00s
+Iter:22, logging:0.00s
+Iter:23, logging:0.00s
+Iter:24, logging:0.00s
+Iter:25, logging:0.00s
+Iter:25, logging:0.00s
+Iter:26, logging:0.00s
+Iter:27, logging:0.00s
+Iter:28, logging:0.00s
+Iter:29, logging:0.00s
+Iter:30, logging:0.00s
+Iter:31, logging:0.00s
+Iter:32, logging:0.00s
+Iter:33, logging:0.00s
+Iter:34, logging:0.00s
+Iter:35, logging:0.00s
+Iter:36, logging:0.00s
+Iter:37, logging:0.00s
+Iter:38, logging:0.00s
+Iter:39, logging:0.00s
+Iter:40, logging:0.00s
+Iter:41, logging:0.00s
+Iter:42, logging:0.00s
+Iter:43, logging:0.00s
+Iter:44, logging:0.00s
+Iter:45, logging:0.00s
+Iter:46, logging:0.00s
+Iter:47, logging:0.00s
+Iter:48, logging:0.00s
+Iter:49, logging:0.00s
+Iter:50, logging:0.00s
+Iter:50, logging:0.00s
+Iter:51, logging:0.00s
+Iter:52, logging:0.00s
+Iter:53, logging:0.00s
+Iter:54, logging:0.00s
+Iter:55, logging:0.00s
+Iter:56, logging:0.00s
+Iter:57, logging:0.00s
+Iter:58, logging:0.00s
+Iter:59, logging:0.00s
+Iter:60, logging:0.00s
+Iter:61, logging:0.00s
+Iter:62, logging:0.00s
+Iter:63, logging:0.00s
+Iter:64, logging:0.00s
+Iter:65, logging:0.00s
+Iter:66, logging:0.00s
+Iter:67, logging:0.00s
+Iter:68, logging:0.00s
+Iter:69, logging:0.00s
+Iter:70, logging:0.00s
+Iter:71, logging:0.00s
+Iter:72, logging:0.00s
+Iter:73, logging:0.00s
+Iter:74, logging:0.00s
+Iter:75, logging:0.00s
+Iter:75, logging:0.00s
+Iter:76, logging:0.00s
+Iter:77, logging:0.00s
+Iter:78, logging:0.00s
+Iter:79, logging:0.00s
+Iter:80, logging:0.00s
+Iter:81, logging:0.00s
+Iter:82, logging:0.00s
+Iter:83, logging:0.00s
+Iter:84, logging:0.00s
+Iter:85, logging:0.00s
+Iter:86, logging:0.00s
+Iter:87, logging:0.00s
+Iter:88, logging:0.00s
+Iter:89, logging:0.00s
+Iter:90, logging:0.00s
+Iter:91, logging:0.00s
+Iter:92, logging:0.00s
+Iter:93, logging:0.00s
+Iter:94, logging:0.00s
+Iter:95, logging:0.00s
+Iter:96, logging:0.00s
+Iter:97, logging:0.00s
+Iter:98, logging:0.00s
+Iter:99, logging:0.00s
+Iter:100, logging:0.00s
+Iter:100, logging:0.00s
+Iter:101, logging:0.00s
+Iter:102, logging:0.00s
+Iter:103, logging:0.00s
+Iter:104, logging:0.00s
+Iter:105, logging:0.00s
+Iter:106, logging:0.00s
+Iter:107, logging:0.00s
+Iter:108, logging:0.00s
+Iter:109, logging:0.00s
+Iter:110, logging:0.00s
+Iter:111, logging:0.00s
+Iter:112, logging:0.00s
+Iter:113, logging:0.00s
+Iter:114, logging:0.00s
+Iter:115, logging:0.00s
+Iter:116, logging:0.00s
+Iter:117, logging:0.00s
+Iter:118, logging:0.00s
+Iter:119, logging:0.00s
+Iter:120, logging:0.00s
+Iter:121, logging:0.00s
+Iter:122, logging:0.00s
+Iter:123, logging:0.00s
+Iter:124, logging:0.00s
+Iter:125, logging:0.00s
+Iter:125, logging:0.00s
+Iter:126, logging:0.00s
+Iter:127, logging:0.00s
+Iter:128, logging:0.00s
+Iter:129, logging:0.00s
+Iter:130, logging:0.00s
+Iter:131, logging:0.00s
+Iter:132, logging:0.00s
+Iter:133, logging:0.00s
+Iter:134, logging:0.00s
+Iter:135, logging:0.00s
+Iter:136, logging:0.00s
+Iter:137, logging:0.00s
+Iter:138, logging:0.00s
+Iter:139, logging:0.00s
+Iter:140, logging:0.00s
+Iter:141, logging:0.00s
+Iter:142, logging:0.00s
+Iter:143, logging:0.00s
+Iter:144, logging:0.00s
+Iter:145, logging:0.00s
+Iter:146, logging:0.00s
+Iter:147, logging:0.00s
+Iter:148, logging:0.00s
+Iter:149, logging:0.00s
+Iter:150, logging:0.00s
+Iter:150, logging:0.00s
+Iter:151, logging:0.00s
+Iter:152, logging:0.00s
+Iter:153, logging:0.00s
+Iter:154, logging:0.00s
+Iter:155, logging:0.00s
+Iter:156, logging:0.00s
+Iter:157, logging:0.00s
+Iter:158, logging:0.00s
+Iter:159, logging:0.00s
+Iter:160, logging:0.00s
+Iter:161, logging:0.00s
+Iter:162, logging:0.00s
+Iter:163, logging:0.00s
+Iter:164, logging:0.00s
+Iter:165, logging:0.00s
+Iter:166, logging:0.00s
+Iter:167, logging:0.00s
+Iter:168, logging:0.00s
+Iter:169, logging:0.00s
+Iter:170, logging:0.00s
+Iter:171, logging:0.00s
+Iter:172, logging:0.00s
+Iter:173, logging:0.00s
+Iter:174, logging:0.00s
+Iter:175, logging:0.00s
+Iter:175, logging:0.00s
+Iter:176, logging:0.00s
+Iter:177, logging:0.00s
+Iter:178, logging:0.00s
+Iter:179, logging:0.00s
+Iter:180, logging:0.00s
+Iter:181, logging:0.00s
+Iter:182, logging:0.00s
+Iter:183, logging:0.00s
+Iter:184, logging:0.00s
+Iter:185, logging:0.00s
+Iter:186, logging:0.00s
+Iter:187, logging:0.00s
+Iter:188, logging:0.00s
+Iter:189, logging:0.00s
+Iter:190, logging:0.00s
+Iter:191, logging:0.00s
+Iter:192, logging:0.00s
+Iter:193, logging:0.00s
+Iter:194, logging:0.00s
+Iter:195, logging:0.00s
+Iter:196, logging:0.00s
+Iter:197, logging:0.00s
+Iter:198, logging:0.00s
+Iter:199, logging:0.00s
+Iter:200, logging:0.00s
+Iter:200, logging:0.00s
+Iter:201, logging:0.00s
+Iter:202, logging:0.00s
+Iter:203, logging:0.00s
+Iter:204, logging:0.00s
+Iter:205, logging:0.00s
+Iter:206, logging:0.00s
+Iter:207, logging:0.00s
+Iter:208, logging:0.00s
+Iter:209, logging:0.00s
+Iter:210, logging:0.00s
+Iter:211, logging:0.00s
+Iter:212, logging:0.00s
+Iter:213, logging:0.00s
+Iter:214, logging:0.00s
+Iter:215, logging:0.00s
+Iter:216, logging:0.00s
+Iter:217, logging:0.00s
+Iter:218, logging:0.00s
+Iter:219, logging:0.00s
+Iter:220, logging:0.00s
+Iter:221, logging:0.00s
+Iter:222, logging:0.00s
+Iter:223, logging:0.00s
+Iter:224, logging:0.00s
+Iter:225, logging:0.00s
+Iter:225, logging:0.00s
+Iter:226, logging:0.00s
+Iter:227, logging:0.00s
+Iter:228, logging:0.00s
+Iter:229, logging:0.00s
+Iter:230, logging:0.00s
+Iter:231, logging:0.00s
+Iter:232, logging:0.00s
+Iter:233, logging:0.00s
+Iter:234, logging:0.00s
+Iter:235, logging:0.00s
+Iter:236, logging:0.00s
+Iter:237, logging:0.00s
+Iter:238, logging:0.00s
+Iter:239, logging:0.00s
+Iter:240, logging:0.00s
+Iter:241, logging:0.00s
+Iter:242, logging:0.00s
+Iter:243, logging:0.00s
+Iter:244, logging:0.00s
+Iter:245, logging:0.00s
+Iter:246, logging:0.00s
+Iter:247, logging:0.00s
+Iter:248, logging:0.00s
+Iter:249, logging:0.00s
+Iter:250, logging:0.00s
+Iter:250, logging:0.00s
+Iter:251, logging:0.00s
+Iter:252, logging:0.00s
+Iter:253, logging:0.00s
+Iter:254, logging:0.00s
+Iter:255, logging:0.00s
+Iter:256, logging:0.00s
+Iter:257, logging:0.00s
+Iter:258, logging:0.00s
+Iter:259, logging:0.00s
+Iter:260, logging:0.00s
+Iter:261, logging:0.00s
+Iter:262, logging:0.00s
+Iter:263, logging:0.00s
+Iter:264, logging:0.00s
+Iter:265, logging:0.00s
+Iter:266, logging:0.00s
+Iter:267, logging:0.00s
+Iter:268, logging:0.00s
+Iter:269, logging:0.00s
+Iter:270, logging:0.00s
+Iter:271, logging:0.00s
+Iter:272, logging:0.00s
+Iter:273, logging:0.00s
+Iter:274, logging:0.00s
+Iter:275, logging:0.00s
+Iter:275, logging:0.00s
+Iter:276, logging:0.00s
+Iter:277, logging:0.00s
+Iter:278, logging:0.00s
+Iter:279, logging:0.00s
+Iter:280, logging:0.00s
+Iter:281, logging:0.00s
+Iter:282, logging:0.00s
+Iter:283, logging:0.00s
+Iter:284, logging:0.00s
+Iter:285, logging:0.00s
+Iter:286, logging:0.00s
+Iter:287, logging:0.00s
+Iter:288, logging:0.00s
+Iter:289, logging:0.00s
+Iter:290, logging:0.00s
+Iter:291, logging:0.00s
+Iter:292, logging:0.00s
+Iter:293, logging:0.00s
+Iter:294, logging:0.00s
+Iter:295, logging:0.00s
+Iter:296, logging:0.00s
+Iter:297, logging:0.00s
+Iter:298, logging:0.00s
+Iter:299, logging:0.00s
+Iter:300, logging:0.00s
+Iter:300, logging:0.00s
+Iter:301, logging:0.00s
+Iter:302, logging:0.00s
+Iter:303, logging:0.00s
+Iter:304, logging:0.00s
+Iter:305, logging:0.00s
+Iter:306, logging:0.00s
+Iter:307, logging:0.00s
+Iter:308, logging:0.00s
+Iter:309, logging:0.00s
+Iter:310, logging:0.00s
+Iter:311, logging:0.00s
+Iter:312, logging:0.00s
+Iter:313, logging:0.00s
+Iter:314, logging:0.00s
+Iter:315, logging:0.00s
+Iter:316, logging:0.00s
+Iter:317, logging:0.00s
+Iter:318, logging:0.00s
+Iter:319, logging:0.00s
+Iter:320, logging:0.00s
+Iter:321, logging:0.00s
+Iter:322, logging:0.00s
+Iter:323, logging:0.00s
+Iter:324, logging:0.00s
+Iter:325, logging:0.00s
+Iter:325, logging:0.00s
+Iter:326, logging:0.00s
+Iter:327, logging:0.00s
+Iter:328, logging:0.00s
+Iter:329, logging:0.00s
+Iter:330, logging:0.00s
+Iter:331, logging:0.00s
+Iter:332, logging:0.00s
+Iter:333, logging:0.00s
+Iter:334, logging:0.00s
+Iter:335, logging:0.00s
+Iter:336, logging:0.00s
+Iter:337, logging:0.00s
+Iter:338, logging:0.00s
+Iter:339, logging:0.00s
+Iter:340, logging:0.00s
+Iter:341, logging:0.00s
+Iter:342, logging:0.00s
+Iter:343, logging:0.00s
+Iter:344, logging:0.00s
+Iter:345, logging:0.00s
+Iter:346, logging:0.00s
+Iter:347, logging:0.00s
+Iter:348, logging:0.00s
+Iter:349, logging:0.00s
+Iter:350, logging:0.00s
+Iter:350, logging:0.00s
+Iter:351, logging:0.00s
+Iter:352, logging:0.00s
+Iter:353, logging:0.00s
+Iter:354, logging:0.00s
+Iter:355, logging:0.00s
+Iter:356, logging:0.00s
+Iter:357, logging:0.00s
+Iter:358, logging:0.00s
+Iter:359, logging:0.00s
+Iter:360, logging:0.00s
+Iter:361, logging:0.00s
+Iter:362, logging:0.00s
+Iter:363, logging:0.00s
+Iter:364, logging:0.00s
+Iter:365, logging:0.00s
+Iter:366, logging:0.00s
+Iter:367, logging:0.00s
+Iter:368, logging:0.00s
+Iter:369, logging:0.00s
+Iter:370, logging:0.00s
+Iter:371, logging:0.00s
+Iter:372, logging:0.00s
+Iter:373, logging:0.00s
+Iter:374, logging:0.00s
+Iter:375, logging:0.00s
+Iter:375, logging:0.00s
+Iter:376, logging:0.00s
+Iter:377, logging:0.00s
+Iter:378, logging:0.00s
+Iter:379, logging:0.00s
+Iter:380, logging:0.00s
+Iter:381, logging:0.00s
+Iter:382, logging:0.00s
+Iter:383, logging:0.00s
+Iter:384, logging:0.00s
+Iter:385, logging:0.00s
+Iter:386, logging:0.00s
+Iter:387, logging:0.00s
+Iter:388, logging:0.00s
+Iter:389, logging:0.00s
+Iter:390, logging:0.00s
+Iter:391, logging:0.00s
+Iter:392, logging:0.00s
+Iter:393, logging:0.00s
+Iter:394, logging:0.00s
+Iter:395, logging:0.00s
+Iter:396, logging:0.00s
+Iter:397, logging:0.00s
+Iter:398, logging:0.00s
+Iter:399, logging:0.00s
+Iter:400, logging:0.00s
+Iter:400, logging:0.00s
+Iter:401, logging:0.00s
+Iter:402, logging:0.00s
+Iter:403, logging:0.00s
+Iter:404, logging:0.00s
+Iter:405, logging:0.00s
+Iter:406, logging:0.00s
+Iter:407, logging:0.00s
+Iter:408, logging:0.00s
+Iter:409, logging:0.00s
+Iter:410, logging:0.00s
+Iter:411, logging:0.00s
+Iter:412, logging:0.00s
+Iter:413, logging:0.00s
+Iter:414, logging:0.00s
+Iter:415, logging:0.00s
+Iter:416, logging:0.00s
+Iter:417, logging:0.00s
+Iter:418, logging:0.00s
+Iter:419, logging:0.00s
+Iter:420, logging:0.00s
+Iter:421, logging:0.00s
+Iter:422, logging:0.00s
+Iter:423, logging:0.00s
+Iter:424, logging:0.00s
+Iter:425, logging:0.00s
+Iter:425, logging:0.00s
+Iter:426, logging:0.00s
+Iter:427, logging:0.00s
+Iter:428, logging:0.00s
+Iter:429, logging:0.00s
+Iter:430, logging:0.00s
+Iter:431, logging:0.00s
+Iter:432, logging:0.00s
+Iter:433, logging:0.00s
+Iter:434, logging:0.00s
+Iter:435, logging:0.00s
+Iter:436, logging:0.00s
+Iter:437, logging:0.00s
+Iter:438, logging:0.00s
+Iter:439, logging:0.00s
+Iter:440, logging:0.00s
+Iter:441, logging:0.00s
+Iter:442, logging:0.00s
+Iter:443, logging:0.00s
+Iter:444, logging:0.00s
+Iter:445, logging:0.00s
+Iter:446, logging:0.00s
+Iter:447, logging:0.00s
+Iter:448, logging:0.00s
+Iter:449, logging:0.00s
+Iter:450, logging:0.00s
+Iter:450, logging:0.00s
+Iter:451, logging:0.00s
+Iter:452, logging:0.00s
+Iter:453, logging:0.00s
+Iter:454, logging:0.00s
+Iter:455, logging:0.00s
+Iter:456, logging:0.00s
+Iter:457, logging:0.00s
+Iter:458, logging:0.00s
+Iter:459, logging:0.00s
+Iter:460, logging:0.00s
+Iter:461, logging:0.00s
+Iter:462, logging:0.00s
+Iter:463, logging:0.00s
+Iter:464, logging:0.00s
+Iter:465, logging:0.00s
+Iter:466, logging:0.00s
+Iter:467, logging:0.00s
+Iter:468, logging:0.00s
+Iter:469, logging:0.00s
+Iter:470, logging:0.00s
+Iter:471, logging:0.00s
+Iter:472, logging:0.00s
+Iter:473, logging:0.00s
+Iter:474, logging:0.00s
+Iter:475, logging:0.00s
+Iter:475, logging:0.00s
+Iter:476, logging:0.00s
+Iter:477, logging:0.00s
+Iter:478, logging:0.00s
+Iter:479, logging:0.00s
+Iter:480, logging:0.00s
+Iter:481, logging:0.00s
+Iter:482, logging:0.00s
+Iter:483, logging:0.00s
+Iter:484, logging:0.00s
+Iter:485, logging:0.00s
+Iter:486, logging:0.00s
+Iter:487, logging:0.00s
+Iter:488, logging:0.00s
+Iter:489, logging:0.00s
+Iter:490, logging:0.00s
+Iter:491, logging:0.00s
+Iter:492, logging:0.00s
+Iter:493, logging:0.00s
+Iter:494, logging:0.00s
+Iter:495, logging:0.00s
+Iter:496, logging:0.00s
+Iter:497, logging:0.00s
+Iter:498, logging:0.00s
+Iter:499, logging:0.00s
+Iter:500, logging:0.00s
+Iter:500, logging:0.00s
+Iter:501, logging:0.00s
+Iter:502, logging:0.00s
+Iter:503, logging:0.00s
+Iter:504, logging:0.00s
+Iter:505, logging:0.00s
+Iter:506, logging:0.00s
+Iter:507, logging:0.00s
+Iter:508, logging:0.00s
+Iter:509, logging:0.00s
+Iter:510, logging:0.00s
+Iter:511, logging:0.00s
+Iter:512, logging:0.00s
+Iter:513, logging:0.00s
+Iter:514, logging:0.00s
+Iter:515, logging:0.00s
+Iter:516, logging:0.00s
+Iter:517, logging:0.00s
+Iter:518, logging:0.00s
+Iter:519, logging:0.00s
+Iter:520, logging:0.00s
+Iter:521, logging:0.00s
+Iter:522, logging:0.00s
+Iter:523, logging:0.00s
+Iter:524, logging:0.00s
+Iter:525, logging:0.00s
+Iter:525, logging:0.00s
+Iter:526, logging:0.00s
+Iter:527, logging:0.00s
+Iter:528, logging:0.00s
+Iter:529, logging:0.00s
+Iter:530, logging:0.00s
+Iter:531, logging:0.00s
+Iter:532, logging:0.00s
+Iter:533, logging:0.00s
+Iter:534, logging:0.00s
+Iter:535, logging:0.00s
+Iter:536, logging:0.00s
+Iter:537, logging:0.00s
+Iter:538, logging:0.00s
+Iter:539, logging:0.00s
+Iter:540, logging:0.00s
+Iter:541, logging:0.00s
+Iter:542, logging:0.00s
+Iter:543, logging:0.00s
+Iter:544, logging:0.00s
+Iter:545, logging:0.00s
+Iter:546, logging:0.00s
+Iter:547, logging:0.00s
+Iter:548, logging:0.00s
+Iter:549, logging:0.00s
+Iter:550, logging:0.00s
+Iter:550, logging:0.00s
+Iter:551, logging:0.00s
+Iter:552, logging:0.00s
+Iter:553, logging:0.00s
+Iter:554, logging:0.00s
+Iter:555, logging:0.00s
+Iter:556, logging:0.00s
+Iter:557, logging:0.00s
+Iter:558, logging:0.00s
+Iter:559, logging:0.00s
+Iter:560, logging:0.00s
+Iter:561, logging:0.00s
+Iter:562, logging:0.00s
+Iter:563, logging:0.00s
+Iter:564, logging:0.00s
+Iter:565, logging:0.00s
+Iter:566, logging:0.00s
+Iter:567, logging:0.00s
+Iter:568, logging:0.00s
+Iter:569, logging:0.00s
+Iter:570, logging:0.00s
+Iter:571, logging:0.00s
+Iter:572, logging:0.00s
+Iter:573, logging:0.00s
+Iter:574, logging:0.00s
+Iter:575, logging:0.00s
+Iter:575, logging:0.00s
+Iter:576, logging:0.00s
+Iter:577, logging:0.00s
+Iter:578, logging:0.00s
+Iter:579, logging:0.00s
+Iter:580, logging:0.00s
+Iter:581, logging:0.00s
+Iter:582, logging:0.00s
+Iter:583, logging:0.00s
+Iter:584, logging:0.00s
+Iter:585, logging:0.00s
+Iter:586, logging:0.00s
+Iter:587, logging:0.00s
+Iter:588, logging:0.00s
+Iter:589, logging:0.00s
+Iter:590, logging:0.00s
+Iter:591, logging:0.00s
+Iter:592, logging:0.00s
+Iter:593, logging:0.00s
+Iter:594, logging:0.00s
+Iter:595, logging:0.00s
+Iter:596, logging:0.00s
+Iter:597, logging:0.00s
+Iter:598, logging:0.00s
+Iter:599, logging:0.00s
+Iter:600, logging:0.00s
+Iter:600, logging:0.00s
+Iter:601, logging:0.00s
+Iter:602, logging:0.00s
+Iter:603, logging:0.00s
+Iter:604, logging:0.00s
+Iter:605, logging:0.00s
+Iter:606, logging:0.00s
+Iter:607, logging:0.00s
+Iter:608, logging:0.00s
+Iter:609, logging:0.00s
+Iter:610, logging:0.00s
+Iter:611, logging:0.00s
+Iter:612, logging:0.00s
+Iter:613, logging:0.00s
+Iter:614, logging:0.00s
+Iter:615, logging:0.00s
+Iter:616, logging:0.00s
+Iter:617, logging:0.00s
+Iter:618, logging:0.00s
+Iter:619, logging:0.00s
+Iter:620, logging:0.00s
+Iter:621, logging:0.00s
+Iter:622, logging:0.00s
+Iter:623, logging:0.00s
+Iter:624, logging:0.00s
+Iter:625, logging:0.00s
+Iter:625, logging:0.00s
+Iter:626, logging:0.00s
+Iter:627, logging:0.00s
+Iter:628, logging:0.00s
+Iter:629, logging:0.00s
+Iter:630, logging:0.00s
+Iter:631, logging:0.00s
+Iter:632, logging:0.00s
+Iter:633, logging:0.00s
+Iter:634, logging:0.00s
+Iter:635, logging:0.00s
+Iter:636, logging:0.00s
+Iter:637, logging:0.00s
+Iter:638, logging:0.00s
+Iter:639, logging:0.00s
+Iter:640, logging:0.00s
+Iter:641, logging:0.00s
+Iter:642, logging:0.00s
+Iter:643, logging:0.00s
+Iter:644, logging:0.00s
+Iter:645, logging:0.00s
+Iter:646, logging:0.00s
+Iter:647, logging:0.00s
+Iter:648, logging:0.00s
+Iter:649, logging:0.00s
+Iter:650, logging:0.00s
+Iter:650, logging:0.00s
+Iter:651, logging:0.00s
+Iter:652, logging:0.00s
+Iter:653, logging:0.00s
+Iter:654, logging:0.00s
+Iter:655, logging:0.00s
+Iter:656, logging:0.00s
+Iter:657, logging:0.00s
+Iter:658, logging:0.00s
+Iter:659, logging:0.00s
+Iter:660, logging:0.00s
+Iter:661, logging:0.00s
+Iter:662, logging:0.00s
+Iter:663, logging:0.00s
+Iter:664, logging:0.00s
+Iter:665, logging:0.00s
+Iter:666, logging:0.00s
+Iter:667, logging:0.00s
+Iter:668, logging:0.00s
+Iter:669, logging:0.00s
+Iter:670, logging:0.00s
+Iter:671, logging:0.00s
+Iter:672, logging:0.00s
+Iter:673, logging:0.00s
+Iter:674, logging:0.00s
+Iter:675, logging:0.00s
+Iter:675, logging:0.00s
+Iter:676, logging:0.00s
+Iter:677, logging:0.00s
+Iter:678, logging:0.00s
+Iter:679, logging:0.00s
+Iter:680, logging:0.00s
+Iter:681, logging:0.00s
+Iter:682, logging:0.00s
+Iter:683, logging:0.00s
+Iter:684, logging:0.00s
+Iter:685, logging:0.00s
+Iter:686, logging:0.00s
+Iter:687, logging:0.00s
+Iter:688, logging:0.00s
+Iter:689, logging:0.00s
+Iter:690, logging:0.00s
+Iter:691, logging:0.00s
+Iter:692, logging:0.00s
+Iter:693, logging:0.00s
+Iter:694, logging:0.00s
+Iter:695, logging:0.00s
+Iter:696, logging:0.00s
+Iter:697, logging:0.00s
+Iter:698, logging:0.00s
+Iter:699, logging:0.00s
+Iter:700, logging:0.00s
+Iter:700, logging:0.00s
+Iter:701, logging:0.00s
+Iter:702, logging:0.00s
+Iter:703, logging:0.00s
+Iter:704, logging:0.00s
+Iter:705, logging:0.00s
+Iter:706, logging:0.00s
+Iter:707, logging:0.00s
+Iter:708, logging:0.00s
+Iter:709, logging:0.00s
+Iter:710, logging:0.00s
+Iter:711, logging:0.00s
+Iter:712, logging:0.00s
+Iter:713, logging:0.00s
+Iter:714, logging:0.00s
+Iter:715, logging:0.00s
+Iter:716, logging:0.00s
+Iter:717, logging:0.00s
+Iter:718, logging:0.00s
+Iter:719, logging:0.00s
+Iter:720, logging:0.00s
+Iter:721, logging:0.00s
+Iter:722, logging:0.00s
+Iter:723, logging:0.00s
+Iter:724, logging:0.00s
+Iter:725, logging:0.00s
+Iter:725, logging:0.00s
+Iter:726, logging:0.00s
+Iter:727, logging:0.00s
+Iter:728, logging:0.00s
+Iter:729, logging:0.00s
+Iter:730, logging:0.00s
+Iter:731, logging:0.00s
+Iter:732, logging:0.00s
+Iter:733, logging:0.00s
+Iter:734, logging:0.00s
+Iter:735, logging:0.00s
+Iter:736, logging:0.00s
+Iter:737, logging:0.00s
+Iter:738, logging:0.00s
+Iter:739, logging:0.00s
+Iter:740, logging:0.00s
+Iter:741, logging:0.00s
+Iter:742, logging:0.00s
+Iter:743, logging:0.00s
+Iter:744, logging:0.00s
+Iter:745, logging:0.00s
+Iter:746, logging:0.00s
+Iter:747, logging:0.00s
+Iter:748, logging:0.00s
+Iter:749, logging:0.00s
+Iter:750, logging:0.00s
+Iter:750, logging:0.00s
+Iter:751, logging:0.00s
+Iter:752, logging:0.00s
+Iter:753, logging:0.00s
+Iter:754, logging:0.00s
+Iter:755, logging:0.00s
+Iter:756, logging:0.00s
+Iter:757, logging:0.00s
+Iter:758, logging:0.00s
+Iter:759, logging:0.00s
+Iter:760, logging:0.00s
+Iter:761, logging:0.00s
+Iter:762, logging:0.00s
+Iter:763, logging:0.00s
+Iter:764, logging:0.00s
+Iter:765, logging:0.00s
+Iter:766, logging:0.00s
+Iter:767, logging:0.00s
+Iter:768, logging:0.00s
+Iter:769, logging:0.00s
+Iter:770, logging:0.00s
+Iter:771, logging:0.00s
+Iter:772, logging:0.00s
+Iter:773, logging:0.00s
+Iter:774, logging:0.00s
+Iter:775, logging:0.00s
+Iter:775, logging:0.00s
+Iter:776, logging:0.00s
+Iter:777, logging:0.00s
+Iter:778, logging:0.00s
+Iter:779, logging:0.00s
+Iter:780, logging:0.00s
+Iter:781, logging:0.00s
+Iter:782, logging:0.00s
+Iter:783, logging:0.00s
+Iter:784, logging:0.00s
+Iter:785, logging:0.00s
+Iter:786, logging:0.00s
+Iter:787, logging:0.00s
+Iter:788, logging:0.00s
+Iter:789, logging:0.00s
+Iter:790, logging:0.00s
+Iter:791, logging:0.00s
+Iter:792, logging:0.00s
+Iter:793, logging:0.00s
+Iter:794, logging:0.00s
+Iter:795, logging:0.00s
+Iter:796, logging:0.00s
+Iter:797, logging:0.00s
+Iter:798, logging:0.00s
+Iter:799, logging:0.00s
+Iter:800, logging:0.00s
+Iter:800, logging:0.00s
+Iter:801, logging:0.00s
+Iter:802, logging:0.00s
+Iter:803, logging:0.00s
+Iter:804, logging:0.00s
+Iter:805, logging:0.00s
+Iter:806, logging:0.00s
+Iter:807, logging:0.00s
+Iter:808, logging:0.00s
+Iter:809, logging:0.00s
+Iter:810, logging:0.00s
+Iter:811, logging:0.00s
+Iter:812, logging:0.00s
+Iter:813, logging:0.00s
+Iter:814, logging:0.00s
+Iter:815, logging:0.00s
+Iter:816, logging:0.00s
+Iter:817, logging:0.00s
+Iter:818, logging:0.00s
+Iter:819, logging:0.00s
+Iter:820, logging:0.00s
+Iter:821, logging:0.00s
+Iter:822, logging:0.00s
+Iter:823, logging:0.00s
+Iter:824, logging:0.00s
+Iter:825, logging:0.00s
+Iter:825, logging:0.00s
+Iter:826, logging:0.00s
+Iter:827, logging:0.00s
+Iter:828, logging:0.00s
+Iter:829, logging:0.00s
+Iter:830, logging:0.00s
+Iter:831, logging:0.00s
+Iter:832, logging:0.00s
+Iter:833, logging:0.00s
+Iter:834, logging:0.00s
+Iter:835, logging:0.00s
+Iter:836, logging:0.00s
+Iter:837, logging:0.00s
+Iter:838, logging:0.00s
+Iter:839, logging:0.00s
+Iter:840, logging:0.00s
+Iter:841, logging:0.00s
+Iter:842, logging:0.00s
+Iter:843, logging:0.00s
+Iter:844, logging:0.00s
+Iter:845, logging:0.00s
+Iter:846, logging:0.00s
+Iter:847, logging:0.00s
+Iter:848, logging:0.00s
+Iter:849, logging:0.00s
+Iter:850, logging:0.00s
+Iter:850, logging:0.00s
+Iter:851, logging:0.00s
+Iter:852, logging:0.00s
+Iter:853, logging:0.00s
+Iter:854, logging:0.00s
+Iter:855, logging:0.00s
+Iter:856, logging:0.00s
+Iter:857, logging:0.00s
+Iter:858, logging:0.00s
+Iter:859, logging:0.00s
+Iter:860, logging:0.00s
+Iter:861, logging:0.00s
+Iter:862, logging:0.00s
+Iter:863, logging:0.00s
+Iter:864, logging:0.00s
+Iter:865, logging:0.00s
+Iter:866, logging:0.00s
+Iter:867, logging:0.00s
+Iter:868, logging:0.00s
+Iter:869, logging:0.00s
+Iter:870, logging:0.00s
+Iter:871, logging:0.00s
+Iter:872, logging:0.00s
+Iter:873, logging:0.00s
+Iter:874, logging:0.00s
+Iter:875, logging:0.00s
+Iter:875, logging:0.00s
+Iter:876, logging:0.00s
+Iter:877, logging:0.00s
+Iter:878, logging:0.00s
+Iter:879, logging:0.00s
+Iter:880, logging:0.00s
+Iter:881, logging:0.00s
+Iter:882, logging:0.00s
+Iter:883, logging:0.00s
+Iter:884, logging:0.00s
+Iter:885, logging:0.00s
+Iter:886, logging:0.00s
+Iter:887, logging:0.00s
+Iter:888, logging:0.00s
+Iter:889, logging:0.00s
+Iter:890, logging:0.00s
+Iter:891, logging:0.00s
+Iter:892, logging:0.00s
+Iter:893, logging:0.00s
+Iter:894, logging:0.00s
+Iter:895, logging:0.00s
+Iter:896, logging:0.00s
+Iter:897, logging:0.00s
+Iter:898, logging:0.00s
+Iter:899, logging:0.00s
+Iter:900, logging:0.00s
+Iter:900, logging:0.00s
+Iter:901, logging:0.00s
+Iter:902, logging:0.00s
+Iter:903, logging:0.00s
+Iter:904, logging:0.00s
+Iter:905, logging:0.00s
+Iter:906, logging:0.00s
+Iter:907, logging:0.00s
+Iter:908, logging:0.00s
+Iter:909, logging:0.00s
+Iter:910, logging:0.00s
+Iter:911, logging:0.00s
+Iter:912, logging:0.00s
+Iter:913, logging:0.00s
+Iter:914, logging:0.00s
+Iter:915, logging:0.00s
+Iter:916, logging:0.00s
+Iter:917, logging:0.00s
+Iter:918, logging:0.00s
+Iter:919, logging:0.00s
+Iter:920, logging:0.00s
+Iter:921, logging:0.00s
+Iter:922, logging:0.00s
+Iter:923, logging:0.00s
+Iter:924, logging:0.00s
+Iter:925, logging:0.00s
+Iter:925, logging:0.00s
+Iter:926, logging:0.00s
+Iter:927, logging:0.00s
+Iter:928, logging:0.00s
+Iter:929, logging:0.00s
+Iter:930, logging:0.00s
+Iter:931, logging:0.00s
+Iter:932, logging:0.00s
+Iter:933, logging:0.00s
+Iter:934, logging:0.00s
+Iter:935, logging:0.00s
+Iter:936, logging:0.00s
+Iter:937, logging:0.00s
+Iter:938, logging:0.00s
+Iter:939, logging:0.00s
+Iter:940, logging:0.00s
+Iter:941, logging:0.00s
+Iter:942, logging:0.00s
+Iter:943, logging:0.00s
+Iter:944, logging:0.00s
+Iter:945, logging:0.00s
+Iter:946, logging:0.00s
+Iter:947, logging:0.00s
+Iter:948, logging:0.00s
+Iter:949, logging:0.00s
+Iter:950, logging:0.00s
+Iter:950, logging:0.00s
+Iter:951, logging:0.00s
+Iter:952, logging:0.00s
+Iter:953, logging:0.00s
+Iter:954, logging:0.00s
+Iter:955, logging:0.00s
+Iter:956, logging:0.00s
+Iter:957, logging:0.00s
+Iter:958, logging:0.00s
+Iter:959, logging:0.00s
+Iter:960, logging:0.00s
+Iter:961, logging:0.00s
+Iter:962, logging:0.00s
+Iter:963, logging:0.00s
+Iter:964, logging:0.00s
+Iter:965, logging:0.00s
+Iter:966, logging:0.00s
+Iter:967, logging:0.00s
+Iter:968, logging:0.00s
+Iter:969, logging:0.00s
+Iter:970, logging:0.00s
+Iter:971, logging:0.00s
+Iter:972, logging:0.00s
+Iter:973, logging:0.00s
+Iter:974, logging:0.00s
+Iter:975, logging:0.00s
+Iter:975, logging:0.00s
+Iter:976, logging:0.00s
+Iter:977, logging:0.00s
+Iter:978, logging:0.00s
+Iter:979, logging:0.00s
+Iter:980, logging:0.00s
+Iter:981, logging:0.00s
+Iter:982, logging:0.00s
+Iter:983, logging:0.00s
+Iter:984, logging:0.00s
+Iter:985, logging:0.00s
+Iter:986, logging:0.00s
+Iter:987, logging:0.00s
+Iter:988, logging:0.00s
+Iter:989, logging:0.00s
+Iter:990, logging:0.00s
+Iter:991, logging:0.00s
+Iter:992, logging:0.00s
+Iter:993, logging:0.00s
+Iter:994, logging:0.00s
+Iter:995, logging:0.00s
+Iter:996, logging:0.00s
+Iter:997, logging:0.00s
+Iter:998, logging:0.00s
+Iter:999, logging:0.00s
+Iter:999, logging:0.00s

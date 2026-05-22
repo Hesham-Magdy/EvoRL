@@ -1,0 +1,21 @@
+Total time, 201.45s, 100.00%
+	,Train time, 174.31s, 86.53%
+	,	,Evaluation time, 173.79s, 99.70%
+	,	,Ask time, 0.30s, 0.17%
+	,	,Tell time, 0.22s, 0.13%
+	,Test time, 27.03s, 13.42%
+	,Logging time, 0.07s, 0.04%
+	,Writing time, 0.03s, 0.02%
+Iter:0, train:30.02s, eval:99%, ask:1%, tell:1%
+Iter:1, train:16.23s, eval:100%, ask:0%, tell:0%
+Iter:2, train:16.13s, eval:100%, ask:0%, tell:0%
+Iter:3, train:16.37s, eval:100%, ask:0%, tell:0%
+Iter:4, train:15.91s, eval:100%, ask:0%, tell:0%
+Iter:5, train:16.05s, eval:100%, ask:0%, tell:0%
+Iter:6, train:15.95s, eval:100%, ask:0%, tell:0%
+Iter:7, train:15.90s, eval:100%, ask:0%, tell:0%
+Iter:8, train:15.92s, eval:100%, ask:0%, tell:0%
+Iter:9, train:15.82s, eval:100%, ask:0%, tell:0%
+Iter:9, test:27.03s
+Iter:0, logging:0.07s
+Iter:9, writing:0.03s

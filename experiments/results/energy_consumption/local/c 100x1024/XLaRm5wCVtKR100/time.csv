@@ -1,0 +1,118 @@
+Total time, 10969.16s, 100.00%
+	,Train time, 10893.74s, 99.31%
+	,	,Evaluation time, 10879.10s, 99.87%
+	,	,Ask time, 12.15s, 0.11%
+	,	,Tell time, 2.49s, 0.02%
+	,Test time, 75.15s, 0.69%
+	,Logging time, 0.17s, 0.00%
+	,Writing time, 0.11s, 0.00%
+Iter:0, train:120.43s, eval:100%, ask:0%, tell:0%
+Iter:1, train:108.49s, eval:100%, ask:0%, tell:0%
+Iter:2, train:108.28s, eval:100%, ask:0%, tell:0%
+Iter:3, train:107.76s, eval:100%, ask:0%, tell:0%
+Iter:4, train:108.68s, eval:100%, ask:0%, tell:0%
+Iter:5, train:109.11s, eval:100%, ask:0%, tell:0%
+Iter:6, train:108.65s, eval:100%, ask:0%, tell:0%
+Iter:7, train:108.79s, eval:100%, ask:0%, tell:0%
+Iter:8, train:108.19s, eval:100%, ask:0%, tell:0%
+Iter:9, train:108.57s, eval:100%, ask:0%, tell:0%
+Iter:10, train:108.58s, eval:100%, ask:0%, tell:0%
+Iter:11, train:108.77s, eval:100%, ask:0%, tell:0%
+Iter:12, train:107.97s, eval:100%, ask:0%, tell:0%
+Iter:13, train:108.48s, eval:100%, ask:0%, tell:0%
+Iter:14, train:108.58s, eval:100%, ask:0%, tell:0%
+Iter:15, train:107.98s, eval:100%, ask:0%, tell:0%
+Iter:16, train:108.17s, eval:100%, ask:0%, tell:0%
+Iter:17, train:108.40s, eval:100%, ask:0%, tell:0%
+Iter:18, train:108.17s, eval:100%, ask:0%, tell:0%
+Iter:19, train:108.45s, eval:100%, ask:0%, tell:0%
+Iter:20, train:108.96s, eval:100%, ask:0%, tell:0%
+Iter:21, train:108.16s, eval:100%, ask:0%, tell:0%
+Iter:22, train:108.10s, eval:100%, ask:0%, tell:0%
+Iter:23, train:108.44s, eval:100%, ask:0%, tell:0%
+Iter:24, train:107.74s, eval:100%, ask:0%, tell:0%
+Iter:25, train:108.27s, eval:100%, ask:0%, tell:0%
+Iter:26, train:109.34s, eval:100%, ask:0%, tell:0%
+Iter:27, train:108.82s, eval:100%, ask:0%, tell:0%
+Iter:28, train:108.58s, eval:100%, ask:0%, tell:0%
+Iter:29, train:108.66s, eval:100%, ask:0%, tell:0%
+Iter:30, train:108.92s, eval:100%, ask:0%, tell:0%
+Iter:31, train:109.60s, eval:100%, ask:0%, tell:0%
+Iter:32, train:108.71s, eval:100%, ask:0%, tell:0%
+Iter:33, train:108.50s, eval:100%, ask:0%, tell:0%
+Iter:34, train:108.55s, eval:100%, ask:0%, tell:0%
+Iter:35, train:108.37s, eval:100%, ask:0%, tell:0%
+Iter:36, train:108.45s, eval:100%, ask:0%, tell:0%
+Iter:37, train:108.54s, eval:100%, ask:0%, tell:0%
+Iter:38, train:108.74s, eval:100%, ask:0%, tell:0%
+Iter:39, train:109.56s, eval:100%, ask:0%, tell:0%
+Iter:40, train:109.10s, eval:100%, ask:0%, tell:0%
+Iter:41, train:109.00s, eval:100%, ask:0%, tell:0%
+Iter:42, train:108.92s, eval:100%, ask:0%, tell:0%
+Iter:43, train:108.64s, eval:100%, ask:0%, tell:0%
+Iter:44, train:108.53s, eval:100%, ask:0%, tell:0%
+Iter:45, train:108.86s, eval:100%, ask:0%, tell:0%
+Iter:46, train:108.49s, eval:100%, ask:0%, tell:0%
+Iter:47, train:109.09s, eval:100%, ask:0%, tell:0%
+Iter:48, train:108.78s, eval:100%, ask:0%, tell:0%
+Iter:49, train:108.37s, eval:100%, ask:0%, tell:0%
+Iter:50, train:109.26s, eval:100%, ask:0%, tell:0%
+Iter:51, train:109.13s, eval:100%, ask:0%, tell:0%
+Iter:52, train:108.97s, eval:100%, ask:0%, tell:0%
+Iter:53, train:109.08s, eval:100%, ask:0%, tell:0%
+Iter:54, train:109.06s, eval:100%, ask:0%, tell:0%
+Iter:55, train:109.07s, eval:100%, ask:0%, tell:0%
+Iter:56, train:109.70s, eval:100%, ask:0%, tell:0%
+Iter:57, train:109.39s, eval:100%, ask:0%, tell:0%
+Iter:58, train:108.94s, eval:100%, ask:0%, tell:0%
+Iter:59, train:108.92s, eval:100%, ask:0%, tell:0%
+Iter:60, train:109.36s, eval:100%, ask:0%, tell:0%
+Iter:61, train:108.73s, eval:100%, ask:0%, tell:0%
+Iter:62, train:109.68s, eval:100%, ask:0%, tell:0%
+Iter:63, train:109.47s, eval:100%, ask:0%, tell:0%
+Iter:64, train:109.35s, eval:100%, ask:0%, tell:0%
+Iter:65, train:108.58s, eval:100%, ask:0%, tell:0%
+Iter:66, train:108.68s, eval:100%, ask:0%, tell:0%
+Iter:67, train:108.25s, eval:100%, ask:0%, tell:0%
+Iter:68, train:109.02s, eval:100%, ask:0%, tell:0%
+Iter:69, train:108.77s, eval:100%, ask:0%, tell:0%
+Iter:70, train:108.85s, eval:100%, ask:0%, tell:0%
+Iter:71, train:108.74s, eval:100%, ask:0%, tell:0%
+Iter:72, train:109.45s, eval:100%, ask:0%, tell:0%
+Iter:73, train:109.22s, eval:100%, ask:0%, tell:0%
+Iter:74, train:108.27s, eval:100%, ask:0%, tell:0%
+Iter:75, train:108.71s, eval:100%, ask:0%, tell:0%
+Iter:76, train:109.01s, eval:100%, ask:0%, tell:0%
+Iter:77, train:108.87s, eval:100%, ask:0%, tell:0%
+Iter:78, train:108.99s, eval:100%, ask:0%, tell:0%
+Iter:79, train:108.87s, eval:100%, ask:0%, tell:0%
+Iter:80, train:108.72s, eval:100%, ask:0%, tell:0%
+Iter:81, train:108.88s, eval:100%, ask:0%, tell:0%
+Iter:82, train:109.06s, eval:100%, ask:0%, tell:0%
+Iter:83, train:108.89s, eval:100%, ask:0%, tell:0%
+Iter:84, train:109.18s, eval:100%, ask:0%, tell:0%
+Iter:85, train:108.38s, eval:100%, ask:0%, tell:0%
+Iter:86, train:108.94s, eval:100%, ask:0%, tell:0%
+Iter:87, train:109.33s, eval:100%, ask:0%, tell:0%
+Iter:88, train:109.25s, eval:100%, ask:0%, tell:0%
+Iter:89, train:109.17s, eval:100%, ask:0%, tell:0%
+Iter:90, train:109.41s, eval:100%, ask:0%, tell:0%
+Iter:91, train:109.05s, eval:100%, ask:0%, tell:0%
+Iter:92, train:110.13s, eval:100%, ask:0%, tell:0%
+Iter:93, train:109.13s, eval:100%, ask:0%, tell:0%
+Iter:94, train:108.46s, eval:100%, ask:0%, tell:0%
+Iter:95, train:110.04s, eval:100%, ask:0%, tell:0%
+Iter:96, train:109.07s, eval:100%, ask:0%, tell:0%
+Iter:97, train:109.14s, eval:100%, ask:0%, tell:0%
+Iter:98, train:108.97s, eval:100%, ask:0%, tell:0%
+Iter:99, train:108.89s, eval:100%, ask:0%, tell:0%
+Iter:25, test:27.60s
+Iter:50, test:15.87s
+Iter:75, test:15.86s
+Iter:99, test:15.81s
+Iter:0, logging:0.06s
+Iter:25, logging:0.07s
+Iter:25, writing:0.03s
+Iter:50, writing:0.02s
+Iter:75, writing:0.03s
+Iter:99, writing:0.03s
