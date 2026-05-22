@@ -1,4 +1,3 @@
-brax==0.10.4
 evojax==0.2.17
 evosax==0.1.6
-tqdm==4.67.1
+brax==0.12.0

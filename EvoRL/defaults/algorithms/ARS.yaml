@@ -5,13 +5,13 @@
     #https://github.com/RobertTLange/evosax/blob/main/evosax/strategies/ars.py
     name: ARS
     population: 100 #even
-    elite_ratio: 0.1
-    sigma_init: 0.03
-    sigma_decay: 1.0
+    elite_ratio: 1.0
+    sigma_init: 0.04
+    sigma_decay: 0.999
     sigma_limit: 0.01
     opt_name: adam #["sgd", "adam", "rmsprop", "clipup", "adan"]
-    lrate_init: 0.05
-    lrate_decay: 1.0
+    lrate_init: 0.01
+    lrate_decay: 0.999
     lrate_limit: 0.001
     mean_decay: 0.0
     w_decay: 0.0 #Reduce fitness based on L2 norm of parameters

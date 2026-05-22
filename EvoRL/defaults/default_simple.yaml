@@ -9,5 +9,5 @@
   train:
     test_interval: 10
     n_tests: 16
-    normalization: false
+    normalization: true
   seed: 12

@@ -9,17 +9,17 @@
   train:
     test_interval: 2
     n_tests: 16
-    normalization: false
+    normalization: true
   log:
     log_interval: 1
     log_save: true
-    save_test: false
+    save_test: true
     save_train: false
     save_train_interval: 50
     save_population: false
     save_rewards: false
     save_env: false
-    visualize_final_env: false
+    visualize_final_env: true
     visualize_test_envs: false
     visualize_train_envs: false
   seed: 12
